@@ -50,7 +50,7 @@ else{
     }
     for(i=0;i<p;i++)
     {
-        printf("%d",c[i]);
+        printf("%d ",c[i]);
     }
 }
 return 0;
